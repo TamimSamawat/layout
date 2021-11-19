@@ -1,0 +1,47 @@
+.header{
+	min-height: 80px;
+	background-color: orange;
+}
+.container{
+	overflow: hidden;
+	
+}
+.blog{
+	float: left;
+	width: 50%;
+	min-height: 100px;
+	background-color: green;
+}
+.contact{
+	float: right;
+	width: 50%;
+	min-height: 100px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+	
+}
+.box{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+	
+}
+.aqua{
+	background-color: aqua;
+
+}
+.parrot{
+	background-color: lime;
+
+}
+.brown{
+	background-color: brown;
+	
+}
+.footer{
+	min-height: 100px;
+	background-color: yellow;
+}
+	
